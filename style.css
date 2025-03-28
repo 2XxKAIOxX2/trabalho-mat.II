@@ -1,0 +1,17 @@
+:root{
+
+    --cor-primaria: #BE3144;
+  --cor-fundo:#c0b28f;
+
+
+
+
+
+}
+.cabecalho{
+    font-style: italic;
+    background-color: var(--cor-fundo);
+    color: var(--cor-primaria);
+    font-weight: 500;
+ 
+}
